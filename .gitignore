@@ -1,0 +1,11 @@
+
+*.yml
+*.xml
+*.csv
+*.class
+*.txt
+*.lst
+*.tsv
+*.png
+*.wav
+*.db
